@@ -61,12 +61,10 @@
 # a_tuple = tuple ()
 
 
-#task
-d_list = list()
+#task_1
+name = input("How is your name?")
+print("Hello,", name, "!")
 
-d_list.append(1)
-d_list.append(2)
-print(d_list)
-ggg
-
-
+a = int(input("Add side of square1:"))
+square = a ** 2
+print("Square ={}".format(square))
