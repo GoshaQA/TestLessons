@@ -67,6 +67,6 @@ d_list = list()
 d_list.append(1)
 d_list.append(2)
 print(d_list)
-
+ggg
 
 
